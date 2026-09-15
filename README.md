@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Indra Luqman S</h1>
+<h1 align="center">Hi 👋, I'm Indra Luqman Sakhi</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/indra luqman sakhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="indra luqman sakhi" height="30" width="40" /></a>
-<a href="https://instagram.com/@in.draaa06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@in.draaa06" height="30" width="40" /></a>
-<a href="https://discord.gg/indra_o0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="indra_o0" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/in.draaa06?utm_source=ig_web_button_share_sheet&stkn=zdnlzdc0mzixnw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/in.draaa06?utm_source=ig_web_button_share_sheet&stkn=zdnlzdc0mzixnw==" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/indra luqman sakhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="indra luqman sakhi" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/Pyb76GvUVQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Pyb76GvUVQ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
